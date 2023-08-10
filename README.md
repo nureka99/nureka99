@@ -8,8 +8,9 @@
 <div align = center>
 <img src="intro.gif" alt=intro/>
 </div>
+
 <!--START_SECTION:WORK-->
-***<p align = center>🌱 I'm currently learning Java, Spring, Laravel</p>***
+**<p align = center>🌱 I'm currently learning Java, Spring, Laravel</p>**
 <!--END_SECTION:WORK-->
 
 <!--START_SECTION:SKILL-->
