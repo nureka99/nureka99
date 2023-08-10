@@ -34,7 +34,7 @@
 <!--START_SECTION:SOCIAL-->
 ## <p align = center> 🌏 	Connect with me </p>
 <div align = center>
-<a href=https://instagram.com/nureka__rodrigo ><img src="https://img.shields.io/badge/instagram-nureka__rodrigo-%23E1306C.svg?style=flat&logo=instagram&logoColor=white" 
+<a href=https://instagram.com/nureka_rodrigo ><img src="https://img.shields.io/badge/instagram-nureka__rodrigo-%23E1306C.svg?style=flat&logo=instagram&logoColor=white" 
                 alt=instagram /></a> &ensp;
 <a href=https://www.linkedin.com/in/nureka-rodrigo ><img src="https://img.shields.io/badge/linkedin-nureka--rodrigo-%230072b1.svg?style=flat&logo=linkedin&logoColor=white" 
                 alt=linkedin /></a> &ensp;
