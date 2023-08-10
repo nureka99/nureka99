@@ -5,7 +5,7 @@
 <!--START_SECTION:SUBTITLE-->
 ### <p align = center>A passionate full-stack developer from Sri Lanka</p>
 <!--END_SECTION:SUBTITLE-->
-
+<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt=JavaScript/> &ensp;
 <!--START_SECTION:WORK-->
 ***<p align = center>🌱 I'm currently learning Java, Spring, Laravel</p>***
 <!--END_SECTION:WORK-->
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/css3-%23563d7c.svg?style=flat&logo=css3&logoColor=white" alt=CSS3/> &ensp;
 <img src="https://img.shields.io/badge/html5-%23e34c26.svg?style=flat&logo=html5&logoColor=white" alt=HTML5/> &ensp;
 <img src="https://img.shields.io/badge/java-%23b07219.svg?style=flat&logo=java&logoColor=white" alt=Java/> &ensp;
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt=JavaScript/> &ensp;
+<img src="https://img.shields.io/badge/javascript-%23f1e05a.svg?style=flat&logo=javascript&logoColor=white" alt=JavaScript/> &ensp;
 <img src="https://img.shields.io/badge/php-%234F5D95.svg?style=flat&logo=php&logoColor=white" alt=PHP/> &ensp;
 <img src="https://img.shields.io/badge/bootstrap-%23553c7b.svg?style=flat&logo=bootstrap&logoColor=white" alt=Bootstrap/> &ensp;
 <img src="https://img.shields.io/badge/spring-%2358ab49.svg?style=flat&logo=spring&logoColor=white" alt=Spring/> &ensp;
