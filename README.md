@@ -13,21 +13,21 @@
 <!--START_SECTION:SKILL-->
 ## <p align = center> 🖥️ 	Tech Stack </p>
 <div align = center>
-<img src="https://img.shields.io/badge/c-%23555555.svg?style=flat&logo=c&logoColor=white" alt=c /> &ensp;
-<img src="https://img.shields.io/badge/css3-%23563d7c.svg?style=flat&logo=css3&logoColor=white" alt=CSS3 /> &ensp;
-<img src="https://img.shields.io/badge/html5-%23e34c26.svg?style=flat&logo=html5&logoColor=white" alt=HTML5 /> &ensp;
-<img src="https://img.shields.io/badge/java-%23b07219.svg?style=flat&logo=java&logoColor=white" alt=Java /> &ensp;
-<img src="https://img.shields.io/badge/javascript-%23f1e05a.svg?style=flat&logo=javascript&logoColor=white" alt=JavaScript /> &ensp;
-<img src="https://img.shields.io/badge/php-%234F5D95.svg?style=flat&logo=php&logoColor=white" alt=PHP /> &ensp;
-<img src="https://img.shields.io/badge/bootstrap-%23553c7b.svg?style=flat&logo=bootstrap&logoColor=white" alt=Bootstrap /> &ensp;
-<img src="https://img.shields.io/badge/spring-%2358ab49.svg?style=flat&logo=spring&logoColor=white" alt=Spring /> &ensp;
-<img src="https://img.shields.io/badge/mysql-%2300758f.svg?style=flat&logo=mysql&logoColor=white" alt=MySQL /> &ensp;
-<img src="https://img.shields.io/badge/microsoft sql server-%23cc1d1d.svg?style=flat&logo=microsoft sql server&logoColor=white" alt=Microsoft SQL Server /> &ensp;
-<img src="https://img.shields.io/badge/firebase-%23FFA000.svg?style=flat&logo=firebase&logoColor=white" alt=Firebase /> &ensp;
-<img src="https://img.shields.io/badge/linux-%23ffcc33.svg?style=flat&logo=linux&logoColor=white" alt=Linux /> &ensp;
-<img src="https://img.shields.io/badge/git-%23f1502f.svg?style=flat&logo=git&logoColor=white" alt=Git /> &ensp;
-<img src="https://img.shields.io/badge/figma-%2300d47b.svg?style=flat&logo=figma&logoColor=white" alt=Figma /> &ensp;
-<img src="https://img.shields.io/badge/canva-%236a3be4.svg?style=flat&logo=canva&logoColor=white" alt=Canva /> &ensp;
+<img src="https://img.shields.io/badge/c-%23555555.svg?style=flat&logo=c&logoColor=white" alt=C/> &ensp;
+<img src="https://img.shields.io/badge/css3-%23563d7c.svg?style=flat&logo=css3&logoColor=white" alt=CSS3/> &ensp;
+<img src="https://img.shields.io/badge/html5-%23e34c26.svg?style=flat&logo=html5&logoColor=white" alt=HTML5/> &ensp;
+<img src="https://img.shields.io/badge/java-%23b07219.svg?style=flat&logo=java&logoColor=white" alt=Java/> &ensp;
+<img src="https://img.shields.io/badge/javascript-%23f1e05a.svg?style=flat&logo=javascript&logoColor=white" alt=JavaScript/> &ensp;
+<img src="https://img.shields.io/badge/php-%234F5D95.svg?style=flat&logo=php&logoColor=white" alt=PHP/> &ensp;
+<img src="https://img.shields.io/badge/bootstrap-%23553c7b.svg?style=flat&logo=bootstrap&logoColor=white" alt=Bootstrap/> &ensp;
+<img src="https://img.shields.io/badge/spring-%2358ab49.svg?style=flat&logo=spring&logoColor=white" alt=Spring/> &ensp;
+<img src="https://img.shields.io/badge/mysql-%2300758f.svg?style=flat&logo=mysql&logoColor=white" alt=MySQL/> &ensp;
+<img src="https://img.shields.io/badge/microsoft sql server-%23cc1d1d.svg?style=flat&logo=microsoft sql server&logoColor=white" alt=Microsoft SQL Server/> &ensp;
+<img src="https://img.shields.io/badge/firebase-%23FFA000.svg?style=flat&logo=firebase&logoColor=white" alt=Firebase/> &ensp;
+<img src="https://img.shields.io/badge/linux-%23ffcc33.svg?style=flat&logo=linux&logoColor=white" alt=Linux/> &ensp;
+<img src="https://img.shields.io/badge/git-%23f1502f.svg?style=flat&logo=git&logoColor=white" alt=Git/> &ensp;
+<img src="https://img.shields.io/badge/figma-%2300d47b.svg?style=flat&logo=figma&logoColor=white" alt=Figma/> &ensp;
+<img src="https://img.shields.io/badge/canva-%236a3be4.svg?style=flat&logo=canva&logoColor=white" alt=Canva/> &ensp;
 </div>
 <!--END_SECTION:SKILL--><br/>
 
