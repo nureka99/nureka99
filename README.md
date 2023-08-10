@@ -5,7 +5,9 @@
 <!--START_SECTION:SUBTITLE-->
 ### <p align = center>A passionate full-stack developer from Sri Lanka</p>
 <!--END_SECTION:SUBTITLE-->
-<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt=JavaScript/> &ensp;
+<div align = center>
+<img src="intro.gif" alt=intro/>
+</div>
 <!--START_SECTION:WORK-->
 ***<p align = center>🌱 I'm currently learning Java, Spring, Laravel</p>***
 <!--END_SECTION:WORK-->
