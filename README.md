@@ -76,6 +76,8 @@
 
 <!--START_SECTION:waka-->
 <div align = "center">
+  <a href="https://wakatime.com/@c7815256-613e-482e-8973-fb173fed95aa"><img src="https://wakatime.com/badge/user/c7815256-613e-482e-8973-fb173fed95aa.svg" alt="Total time coded since Aug 15 2023" /></a>
+  <br>
     <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=nureka99" alt = "nureka99"/> 
 </div>
 <!--END_SECTION:waka-->
