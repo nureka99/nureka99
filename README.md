@@ -75,6 +75,9 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
+<div align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=nureka99" alt = "nureka99"/> 
+</div>
 <!--END_SECTION:waka-->
 
 
