@@ -55,7 +55,7 @@
     <img src = "https://github-readme-stats.vercel.app/api?username=nureka99&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt = "nureka99"/> 
 </div>
 <!--END_SECTION:README-STATS--><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <!--START_SECTION:README-STATS-LANGUAGES-->
 <div align = "center">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nureka99&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true" alt = "nureka99"/> 
