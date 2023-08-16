@@ -13,6 +13,22 @@
 **<p align = center>🌱 I'm currently learning Java, Spring, Laravel</p>**
 <!--END_SECTION:WORK-->
 
+<!--START_SECTION:SOCIAL-->
+## <p align = center> 🌏 	Connect with me </p>
+<div align = center>
+<a href=https://instagram.com/nureka_rodrigo ><img src="https://img.shields.io/badge/instagram-nureka__rodrigo-%23E1306C.svg?style=flat&logo=instagram&logoColor=white" 
+                alt=instagram /></a> &ensp;
+<a href=https://www.linkedin.com/in/nureka-rodrigo ><img src="https://img.shields.io/badge/linkedin-nureka--rodrigo-%230072b1.svg?style=flat&logo=linkedin&logoColor=white" 
+                alt=linkedin /></a> &ensp;
+</div>
+<!--END_SECTION:SOCIAL--><br/>
+
+<!--START_SECTION:PROFILE-VIEWS-->
+<div align = "center">
+    <img src = "https://komarev.com/ghpvc/?username=nureka99&color=blue&style=flat" alt = "nureka99"/> 
+</div>
+<!--END_SECTION:PROFILE-VIEWS--><br/>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nureka_rodrigo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nureka-rodrigo) 
