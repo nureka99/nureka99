@@ -43,6 +43,8 @@
 
 ###
 
+<hr/>
+
 <h3 align="center">🛠 TECH STACK 🛠</h3>
 
 ###
@@ -83,6 +85,8 @@
 
 ###
 
+<hr/>
+
 <h3 align="center">⚡ MY STATS ⚡</h3>
 
 ###
@@ -94,6 +98,8 @@
 </div>
 
 ###
+
+<hr/>
 
 <h3 align="center">🎧 MY PLAYLIST 🎧</h3>
 
@@ -107,4 +113,4 @@
 
 ###
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nureka99)](https://github.com/nureka99/nureka99)
+[![Nurekas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nureka99)](https://github.com/nureka99/nureka99)
