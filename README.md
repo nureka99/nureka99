@@ -27,12 +27,6 @@
 
 ###
 
-<h3 align="center">A passionate developer from Sri Lanka</h3>
-<p align="center">🌱 I'm currently learning Spring and Laravel</p>
-
-###
-<hr/>
-
 <h2 align="center">🐍 MY CONTRIBUTIONS 🐍</h2>
 
 <div align="center">
