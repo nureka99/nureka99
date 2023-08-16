@@ -23,8 +23,6 @@
 </div>
 <!--END_SECTION:SOCIAL--><br/>
 
----
-
 <!--START_SECTION:PROFILE-VIEWS-->
 <div align = "center">
     <img src = "https://komarev.com/ghpvc/?username=nureka99&color=blue&style=flat" alt = "nureka99"/> 
