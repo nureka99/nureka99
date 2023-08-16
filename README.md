@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nureka99.nureka99" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nureka99.nureka99" />
 </div>
 
 ###
