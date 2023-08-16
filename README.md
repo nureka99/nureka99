@@ -113,4 +113,6 @@
 
 <hr/>
 
-<figure><embed src="https://wakatime.com/share/@nureka99/a3ae1f7e-b4cf-4aef-a355-8b768164abf2.svg"></embed></figure>
+<div align="center">
+  <img src="https://wakatime.com/share/@nureka99/a3ae1f7e-b4cf-4aef-a355-8b768164abf2.svg" />
+</div>
