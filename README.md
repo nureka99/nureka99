@@ -31,9 +31,10 @@
 <p align="center">🌱 I'm currently learning Spring and Laravel</p>
 
 ###
+<hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 MY CONTRIBUTIONS 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nureka99/nureka99/output/github-contribution-grid-snake.svg" />
   
@@ -42,7 +43,7 @@
 
 ###
 
-<h3 align="center">🛠 TECH STACK:</h3>
+<h3 align="center">🛠 TECH STACK 🛠</h3>
 
 ###
 
@@ -82,7 +83,7 @@
 
 ###
 
-<h3 align="center">🔥   MY STATS :</h3>
+<h3 align="center">⚡ MY STATS ⚡</h3>
 
 ###
 
@@ -94,7 +95,7 @@
 
 ###
 
-<h3 align="center">🎧   MY PLAYLIST:</h3>
+<h3 align="center">🎧 MY PLAYLIST 🎧</h3>
 
 ###
 
