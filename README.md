@@ -33,9 +33,9 @@
 ###
 <hr/>
 
+<h2 align="center">🐍 MY CONTRIBUTIONS 🐍</h2>
+
 <div align="center">
-  <h2>🐍 MY CONTRIBUTIONS 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nureka99/nureka99/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
