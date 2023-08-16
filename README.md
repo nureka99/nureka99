@@ -54,14 +54,4 @@
 </div>
 <!--END_SECTION:STREAK-STATS--><br/>
 
-<!--START_SECTION:PROFILE-TROPHY-->
-<div align = "center">
-    <img src = "https://github-profile-trophy.vercel.app/?username=nureka99&theme=discord&no-frame=true&no-bg=true&margin-w=2&column=-1" alt = "nureka99"/> 
-</div>
-<!--END_SECTION:PROFILE-TROPHY--><br/>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
 <!-- Created with CreateME profile readme generator-->
