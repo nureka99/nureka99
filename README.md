@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nureka99.nureka99&left_text=Profile Views"  />
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nureka99.nureka99" />
 </div>
 
 ###
