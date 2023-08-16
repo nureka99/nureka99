@@ -113,4 +113,6 @@
 
 ###
 
+<hr/>
+
 [![Nurekas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nureka99)](https://github.com/nureka99/nureka99)
