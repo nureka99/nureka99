@@ -16,7 +16,8 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nureka99.nureka99&left_text=Profile Views"  />
+  
+<svg height="20" width="104.3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="smooth" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="round"><rect fill="#fff" height="20" rx="3" width="104.3"/></clipPath><g clip-path="url(#round)"><rect fill="#595959" height="20" width="80.3"/><rect fill="#1283c3" height="20" width="24.0" x="80.3"/><rect fill="url(#smooth)" height="20" width="104.3"/></g><g fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="110" text-anchor="middle"><text fill="#010101" fill-opacity=".3" lengthAdjust="spacing" textLength="703.0" transform="scale(0.1)" x="411.5" y="150">Profile Views</text><text lengthAdjust="spacing" textLength="703.0" transform="scale(0.1)" x="411.5" y="140">Profile Views</text><text fill="#010101" fill-opacity=".3" lengthAdjust="spacing" textLength="140.0" transform="scale(0.1)" x="913.0" y="150">15</text><text lengthAdjust="spacing" textLength="140.0" transform="scale(0.1)" x="913.0" y="140">15</text><a xlink:href="https://visitor-badge.laobi.icu"><rect fill="rgba(0,0,0,0)" height="20" width="80.3"/></a><a xlink:href="https://visitor-badge.laobi.icu"><rect fill="rgba(0,0,0,0)" height="20" width="24.0" x="80.3"/></a></g></svg>
 </div>
 
 ###
