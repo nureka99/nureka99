@@ -83,14 +83,10 @@
 
 ###
 
-<div>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nureka99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=nureka99&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nureka99&locale=en&hide_title=false&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&langs_count=8&count_private=true" height="200" alt="languages graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nureka99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&langs_count=8&count_private=true" height="200" alt="languages graph"  />
 </div>
 
 ###
