@@ -27,7 +27,7 @@
 
 ###
 
-<h4 align="center">A passionate developer from Sri Lanka</h4>
+<h3 align="center">A passionate developer from Sri Lanka</h3>
 <p align="center">🌱 I'm currently learning Spring and Laravel</p>
 
 ###
@@ -37,15 +37,13 @@
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nureka99/nureka99/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
 
 ###
 
 <hr/>
 
-<h3 align="center">🛠 TECH STACK 🛠</h3>
+<h2 align="center">🛠 TECH STACK 🛠</h2>
 
 ###
 
@@ -87,7 +85,7 @@
 
 <hr/>
 
-<h3 align="center">⚡ MY STATS ⚡</h3>
+<h2 align="center">⚡ MY STATS ⚡</h2>
 
 ###
 
@@ -101,7 +99,7 @@
 
 <hr/>
 
-<h3 align="center">🎧 MY PLAYLIST 🎧</h3>
+<h2 align="center">🎧 MY PLAYLIST 🎧</h2>
 
 ###
 
