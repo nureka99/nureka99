@@ -114,5 +114,5 @@
 <hr/>
 
 <div align="center">
-  <img src="https://wakatime.com/share/@nureka99/a3ae1f7e-b4cf-4aef-a355-8b768164abf2.svg" />
+  <img src="https://wakatime.com/share/@nureka99/a3ae1f7e-b4cf-4aef-a355-8b768164abf2.svg" height="400"/>
 </div>
