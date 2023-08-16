@@ -28,14 +28,11 @@
 ###
 
 <h4 align="center">A passionate developer from Sri Lanka</h4>
+<p align="center">🌱 I'm currently learning Spring and Laravel</p>
 
 ###
 
 <img src="https://raw.githubusercontent.com/nureka99/nureka99/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="center">🌱 I'm currently learning Spring and Laravel</p>
 
 ###
 
