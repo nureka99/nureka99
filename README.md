@@ -116,7 +116,7 @@
             </td>
             <td>
                 <h2 align="center">👨‍💻 CODE WITH ME 👨‍💻</h2>
-                <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@nureka99&theme=dark&compact=True&hide_title=true"/>
+                <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@nureka99&theme=dark&compact=True&card_width=350px"/>
             </td>
         </tr>
     </table>
