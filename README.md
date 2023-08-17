@@ -90,7 +90,7 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=nureka99&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&order=1" alt="stats graph"/>
             </td>
             <td rowspan="2">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nureka99&locale=en&card_width=320&langs_count=5&theme=dark&order=2&count_private=true" alt="languages graph"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nureka99&locale=en&layout=compact&card_width=320&langs_count=5&theme=dark&order=2&count_private=true" alt="languages graph"/>
             </td>
         </tr>
         <tr>
