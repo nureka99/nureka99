@@ -86,7 +86,7 @@
 <div align="center">
     <table>
         <tr>
-            <td align="right">
+            <td align="center">
                 <img src="https://github-readme-stats.vercel.app/api?username=nureka99&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&order=1" alt="stats graph"/>
             </td>
             <td rowspan="2">
@@ -116,7 +116,7 @@
             </td>
             <td>
                 <h2 align="center">👨‍💻 CODE WITH ME 👨‍💻</h2>
-                <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@nureka99&theme=dark&compact=True&card_width=350px"/>
+                <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@nureka99&theme=dark&compact=True"/>
             </td>
         </tr>
     </table>
