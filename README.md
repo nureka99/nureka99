@@ -93,7 +93,7 @@
 
 <hr/>
 
-<h2 align="center">🎧 MY PLAYLIST 🎧</h2>
+<h2 align="center">🎧 LISTEN WITH ME 🎧</h2>
 
 ###
 
