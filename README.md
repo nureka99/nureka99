@@ -89,12 +89,12 @@
             <td align="center">
                 <img src="https://github-readme-stats.vercel.app/api?username=nureka99&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&order=1" alt="stats graph"/>
             </td>
-            <td rowspan="2">
+            <td rowspan="2" align="center">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nureka99&locale=en&layout=compact&card_width=320&langs_count=5&theme=dark&order=2&count_private=true" alt="languages graph"/>
             </td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <img src="https://streak-stats.demolab.com?user=nureka99&locale=en&mode=daily&theme=dark&border_radius=5&order=3" alt="streak graph"/>
             </td>
         </tr>
@@ -108,15 +108,15 @@
 <div align="center">
     <table>
         <tr>
-            <td>
-                <h2 align="center">🎧 LISTEN WITH ME 🎧</h2>
+            <td align="center">
+                <h2>🎧 LISTEN WITH ME 🎧</h2>
                 <a href="https://open.spotify.com/user/zjqfkmbawszam1irs05fwxsls">
                     <img src="https://spotify-github-profile.vercel.app/api/view?uid=zjqfkmbawszam1irs05fwxsls&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify recently played"/>
                 </a>
             </td>
-            <td>
-                <h2 align="center">👨‍💻 CODE WITH ME 👨‍💻</h2>
-                <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@nureka99&theme=dark&compact=True"/>
+            <td align="center">
+                <h2>👨‍💻 CODE WITH ME 👨‍💻</h2>
+                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nureka99&theme=dark&compact=True"/>
             </td>
         </tr>
     </table>
