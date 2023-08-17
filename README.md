@@ -16,7 +16,7 @@
 ### 
 
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=nureka99.nureka99" />
+    <img src="https://github-vistors-counter.onrender.com/github?username=nureka99" />
 </div> 
 
 ### 
