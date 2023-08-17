@@ -87,18 +87,24 @@
     <table>
         <tr>
             <td align="right">
-                <img src="https://github-readme-stats.vercel.app/api?username=nureka99&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="stats graph" />
+                <img src="https://github-readme-stats.vercel.app/api?username=nureka99&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&order=1" alt="stats graph" />
             </td>
             <td rowspan="2">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knureka99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=8" alt="languages graph" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nureka99&locale=en&layout=compact&card_width=320&langs_count=5&theme=dark&order=2&langs_count=8&count_private=true" alt="languages graph" />
             </td>
         </tr>
         <tr>
             <td>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=nureka99&theme=dark&hide_border=false" alt="streak graph" />
+                <img src="https://streak-stats.demolab.com?user=nureka99&locale=en&mode=daily&theme=dark&border_radius=5&order=3" alt="streak graph" />
             </td>
         </tr>
     </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nureka99&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&order=1" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=nureka99&locale=en&mode=daily&theme=dark&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nureka99&locale=en&layout=compact&card_width=320&langs_count=5&theme=dark&order=2&langs_count=8&count_private=true" height="150" alt="languages graph"  />
 </div>
 
 ###
