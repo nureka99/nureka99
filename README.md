@@ -16,7 +16,7 @@
 ### 
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=nureka99&color=blue"/>
+    <img src="https://komarev.com/ghpvc/?username=nureka-rodrigo&color=blue"/>
 </div> 
 
 ### 
@@ -30,7 +30,7 @@
 <h2 align="center">🐍 MY CONTRIBUTIONS 🐍</h2>
 
 <div align="center">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nureka99/nureka99/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nureka-rodrigo/nureka-rodrigo/output/github-contribution-grid-snake.svg"/>
 </div> 
 
 ###
@@ -91,15 +91,15 @@
     <table>
         <tr>
             <td align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=nureka99&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&order=1" alt="stats graph"/>
+                <img src="https://github-readme-stats.vercel.app/api?username=nureka-rodrigo&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&order=1" alt="stats graph"/>
             </td>
             <td rowspan="2" align="center">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nureka99&locale=en&card_width=320&langs_count=8&theme=dark&order=2&count_private=true" alt="languages graph"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nureka-rodrigo&locale=en&card_width=320&langs_count=8&theme=dark&order=2&count_private=true" alt="languages graph"/>
             </td>
         </tr>
         <tr>
             <td align="center">
-                <img src="https://streak-stats.demolab.com?user=nureka99&locale=en&mode=daily&theme=dark&border_radius=5&order=3" alt="streak graph"/>
+                <img src="https://streak-stats.demolab.com?user=nureka-rodrigo&locale=en&mode=daily&theme=dark&border_radius=5&order=3" alt="streak graph"/>
             </td>
         </tr>
     </table>
@@ -120,7 +120,7 @@
             </td>
             <td align="center">
                 <h2>👨‍💻 CODE WITH ME 👨‍💻</h2>
-                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nureka99&theme=dark&compact=True&langs_count=8"/>
+                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nureka-rodrigo&theme=dark&compact=True&langs_count=8"/>
             </td>
         </tr>
     </table>
