@@ -21,4 +21,4 @@ jobs:
           SHOW_UPDATED_DATE: "False"
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_TIMELINE: "False"
+          SHOW_LOC_CHART: "False"
