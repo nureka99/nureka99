@@ -92,7 +92,7 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-339%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-339%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-288.4%20thousand%20lines%20of%20code-blue)
 
@@ -123,13 +123,14 @@ Sunday                   68 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Prolog                   8 mins              ██████████████████████░░░   86.84 % 
+Perl                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 
