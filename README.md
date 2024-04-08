@@ -1,10 +1,10 @@
-<div style="display: flex;justify-content: center;margin-top:20px">
+<div align="center">
     <img height="150" src="./assets/top.gif" alt="top-image"/>
 </div>
 
 ###    
 
- <div style="display: flex;justify-content: center;">
+ <div align="center">
     <a href="https://www.linkedin.com/in/nureka-rodrigo/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
     </a>
@@ -15,21 +15,21 @@
 
 ###    
 
-<div style="display: flex;justify-content: center;">
+<div align="center">
     <img src="https://komarev.com/ghpvc/?username=nureka-rodrigo&color=blue" alt="profile-views"/>
 </div> 
 
 ###    
 
-<h1 style="display: flex;justify-content: center;">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nureka+Rodrigo!;" alt="greeting"/>
 </h1> 
 
 ###    
 
-<h2 style="display: flex;justify-content: center;">🐍 MY CONTRIBUTIONS 🐍</h2>
+<h2 align="center">🐍 MY CONTRIBUTIONS 🐍</h2>
 
-<div style="display: flex;justify-content: center;">
+<div align="center">
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nureka-rodrigo/nureka-rodrigo/output/github-contribution-grid-snake.svg"/>
 </div> 
 
@@ -37,7 +37,7 @@
 
 <hr/>
 
-<h2 style="display: flex;justify-content: center;">🛠 TECH STACK 🛠</h2>
+<h2 align="center">🛠 TECH STACK 🛠</h2>
 
 ###
 
@@ -133,7 +133,7 @@ Windows                  11 hrs 26 mins      ███████████�
 
 ###    
 
-<div style="display: flex;justify-content: center;">
+<div align="center">
     <table>
         <tr>
             <td align="center">
@@ -155,7 +155,7 @@ Windows                  11 hrs 26 mins      ███████████�
 
 <hr/>
 
-<div style="display: flex;justify-content: center;">
+<div align="center">
     <table>
         <tr>
             <td align="center">
