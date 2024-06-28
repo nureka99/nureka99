@@ -161,7 +161,7 @@ Windows                  17 hrs 57 mins      ███████████�
             <td align="center">
                 <h2>🎧 LISTEN WITH ME 🎧</h2>
                 <a href="https://open.spotify.com/user/zjqfkmbawszam1irs05fwxsls">
-                    <img src="https://spotify-github-profile.vercel.app/api/view?uid=zjqfkmbawszam1irs05fwxsls&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify recently played"/>
+                    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zjqfkmbawszam1irs05fwxsls&count=5&unique=true" alt="Spotify recently played"  />
                 </a>
             </td>
             <td align="center">
