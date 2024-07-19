@@ -4,14 +4,14 @@
 
 ###    
 
- <div align="center">
+<div align="center">
     <a href="https://www.linkedin.com/in/nureka-rodrigo/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px" alt="Linkedin"/>
     </a>
     <a href="https://www.instagram.com/nureka_rodrigo/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50px"  alt="Instagram"/>
     </a>
-</div> 
+</div>
 
 ###    
 
