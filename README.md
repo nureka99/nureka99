@@ -148,7 +148,7 @@ Windows                  8 hrs 50 mins       ███████████�
         </tr>
         <tr>
             <td align="center">
-                <img src="https://streak-stats.demolab.com?user=nureka-rodrigo&locale=en&mode=daily&theme=dark&border_radius=5&order=3" alt="streak graph"/>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=nureka-rodrigo%22&theme=dark" alt="streak graph"/>
             </td>
         </tr>
     </table>
